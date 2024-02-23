@@ -5,6 +5,6 @@
 	backgroundColor="Off"
 >
 	<animations>
-		<animation name="test/pulseAudio/vuMeter" />
+		<animation name="pulseAudio/vuMeter" />
 	</animations>
 </LEDSpicer>

@@ -5,6 +5,6 @@
 	backgroundColor="Off"
 >
 	<animations>
-		<animation name="test/pulseAudio/levels" />
+		<animation name="pulseAudio/levels" />
 	</animations>
 </LEDSpicer>

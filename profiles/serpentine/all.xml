@@ -5,13 +5,13 @@
 	backgroundColor="LightBlue"
 >
 	<animations>
-		<animation name="test/serpentine/serpentineForwardNoTail" />
-		<animation name="test/serpentine/serpentineFBNoTail" />
-		<animation name="test/serpentine/serpentineFBTail" />
-		<animation name="test/serpentine/serpentineForwardTail" />
-		<animation name="test/serpentine/serpentineBackwardNoTail" />
-		<animation name="test/serpentine/serpentineBBNoTail" />
-		<animation name="test/serpentine/serpentineBBTail" />
-		<animation name="test/serpentine/serpentineBackwardTail" />
+		<animation name="serpentine/serpentineForwardNoTail" />
+		<animation name="serpentine/serpentineFBNoTail" />
+		<animation name="serpentine/serpentineFBTail" />
+		<animation name="serpentine/serpentineForwardTail" />
+		<animation name="serpentine/serpentineBackwardNoTail" />
+		<animation name="serpentine/serpentineBBNoTail" />
+		<animation name="serpentine/serpentineBBTail" />
+		<animation name="serpentine/serpentineBackwardTail" />
 	</animations>
 </LEDSpicer>

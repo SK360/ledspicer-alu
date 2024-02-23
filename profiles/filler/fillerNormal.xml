@@ -5,7 +5,7 @@
 	backgroundColor="Black"
 >
 	<animations>
-		<animation name="tests/filler/fillerNormalF" />
-		<animation name="tests/filler/fillerNormalBouncer" />
+		<animation name="filler/fillerNormalF" />
+		<animation name="filler/fillerNormalBouncer" />
 	</animations>
 </LEDSpicer>

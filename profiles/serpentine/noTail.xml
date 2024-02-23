@@ -5,9 +5,9 @@
 	backgroundColor="LightBlue"
 >
 	<animations>
-		<animation name="test/serpentine/serpentineBackwardNoTail" />
-		<animation name="test/serpentine/serpentineBBNoTail" />
-		<animation name="test/serpentine/serpentineFBNoTail" />
-		<animation name="test/serpentine/serpentineForwardNoTail" />
+		<animation name="serpentine/serpentineBackwardNoTail" />
+		<animation name="serpentine/serpentineBBNoTail" />
+		<animation name="serpentine/serpentineFBNoTail" />
+		<animation name="serpentine/serpentineForwardNoTail" />
 	</animations>
 </LEDSpicer>

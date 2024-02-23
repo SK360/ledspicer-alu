@@ -5,9 +5,9 @@
 	backgroundColor="Off"
 >
 	<animations>
-		<animation name="test/pulseAudio/VuMeter" />
-		<animation name="test/pulseAudio/wave"    />
-		<animation name="test/pulseAudio/levels"  />
-		<animation name="test/pulseAudio/single"  />
+		<animation name="pulseAudio/VuMeter" />
+		<animation name="pulseAudio/wave"    />
+		<animation name="pulseAudio/levels"  />
+		<animation name="pulseAudio/single"  />
 	</animations>
 </LEDSpicer>

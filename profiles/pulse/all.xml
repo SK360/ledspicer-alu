@@ -5,7 +5,7 @@
 	backgroundColor="Black"
 >
 	<animations>
-		<animation name="test/pulse/fadeLinear.xml" />
-		<animation name="test/pulse/fadeSequential.xml" />
+		<animation name="pulse/fadeLinear.xml" />
+		<animation name="pulse/fadeSequential.xml" />
 	</animations>
 </LEDSpicer>

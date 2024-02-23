@@ -5,6 +5,6 @@
 	backgroundColor="Off"
 >
 	<animations>
-		<animation name="test/pulseAudio/wave" />
+		<animation name="pulseAudio/wave" />
 	</animations>
 </LEDSpicer>

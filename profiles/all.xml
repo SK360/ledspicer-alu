@@ -5,26 +5,26 @@
 	backgroundColor="Black"
 >
 	<animations>
-		<animation name="test/pulse/fadeLinear" />
-		<animation name="test/pulse/fadeSequential" />
+		<animation name="pulse/fadeLinear" />
+		<animation name="pulse/fadeSequential" />
 		
-		<animation name="test/filler/fillerNormalF" />
-		<animation name="test/filler/fillerNormalBouncer" />
-		<animation name="test/filler/fillerRandom" />
+		<animation name="filler/fillerNormalF" />
+		<animation name="filler/fillerNormalBouncer" />
+		<animation name="filler/fillerRandom" />
 		
-		<animation name="test/pulseaudio/levels" />
-		<animation name="test/pulseaudio/single" />
-		<animation name="test/pulseaudio/vuMeter" />
-		<animation name="test/pulseaudio/wave" />
-		<animation name="test/pulseaudio/vuMeter" />
+		<animation name="pulseaudio/levels" />
+		<animation name="pulseaudio/single" />
+		<animation name="pulseaudio/vuMeter" />
+		<animation name="pulseaudio/wave" />
+		<animation name="pulseaudio/vuMeter" />
 		
-		<animation name="test/serpentine/serpentineBackwardNoTail" />
-		<animation name="test/serpentine/serpentineBBNoTail" />
-		<animation name="test/serpentine/serpentineFBNoTail" />
-		<animation name="test/serpentine/serpentineForwardNoTail" />
-		<animation name="test/serpentine/serpentineBackwardTail" />
-		<animation name="test/serpentine/serpentineBBTail" />
-		<animation name="test/serpentine/serpentineFBTail" />
-		<animation name="test/serpentine/serpentineForwardTail" />
+		<animation name="serpentine/serpentineBackwardNoTail" />
+		<animation name="serpentine/serpentineBBNoTail" />
+		<animation name="serpentine/serpentineFBNoTail" />
+		<animation name="serpentine/serpentineForwardNoTail" />
+		<animation name="serpentine/serpentineBackwardTail" />
+		<animation name="serpentine/serpentineBBTail" />
+		<animation name="serpentine/serpentineFBTail" />
+		<animation name="serpentine/serpentineForwardTail" />
 	</animations>
 </LEDSpicer>
