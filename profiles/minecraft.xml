@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LEDSpicer
+	version="1.0"
+	type="Profile"
+	backgroundColor="Black"
+>
+	<alwaysOnElements>
+		<element name="P1_BUTTONA" color="Blue" />
+		<element name="P1_BUTTONB" color="Blue" />
+		<element name="P1_BUTTONC" color="Blue" />
+		<element name="P1_BUTTONX" color="Blue" />
+		<element name="P1_BUTTONY" color="Blue" />
+		<element name="P1_BUTTONZ" color="Blue" />
+		<element name="P1_START" color="Blue" />
+		<element name="MENU" color="Green" />
+	</alwaysOnElements>
+</LEDSpicer>
