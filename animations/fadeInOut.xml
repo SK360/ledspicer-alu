@@ -10,5 +10,6 @@
 		speed="Normal"
 		filter="Combine"
 		direction="ForwardBouncing"
+		cycles="2"
 	/>
 </LEDSpicer>
