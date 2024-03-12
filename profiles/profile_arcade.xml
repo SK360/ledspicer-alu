@@ -5,8 +5,14 @@
 	backgroundColor="Black"
 >
 
+    <alwaysOnElements>
+        <element name="P1_START" color="Red" />
+        <element name="REWIND" color="Red" />
+        <element name="MENU" color="Green" />
+    </alwaysOnElements>
+
     <startTransitions>
-        <animation name="fadeInOut"/>
+        <animation name="filler"/>
     </startTransitions>
 
 </LEDSpicer>
