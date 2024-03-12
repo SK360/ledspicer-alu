@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LEDSpicer
+    version="1.0"
+    type="Input"
+    name="Actions"
+    speed="Normal"
+    linkedTriggers="0,1,2"
+>
+    <listenEvents>
+        <listenEvent name="usb-ACustomArcade_PicoCTR_E4629C46D3385F34-event-joystick" />
+    </listenEvents>
+    <maps source="usb-ACustomArcade_PicoCTR_E4629C46D3385F34-event-joystick">
+        <map
+            type="Element"
+            target="REWIND"
+            trigger="310"
+            color="Black"
+            filter="Normal"
+        />
+        <map
+            type="Element"
+            target="P1_START"
+            trigger="313"
+            color="Black"
+            filter="Normal"
+        />
+		<map
+            type="Element"
+            target="P1_TRACKBALL1"
+            trigger="000"
+            color="Blue"
+            filter="Combine"
+        />
+    </maps>
+</LEDSpicer>
