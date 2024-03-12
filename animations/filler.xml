@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LEDSpicer
+	version="1.0"
+	type="Animation"
+>
+	<actor
+		type="Filler"
+		group="All"
+		speed="Fast"
+		filter="Normal"
+		direction="ForwardBouncing"
+		color="Blue"
+		mode="Normal"
+	/>
+	<actor
+		type="Filler"
+		group="All"
+		speed="Fast"
+		filter="Combine"
+		direction="BackwardBouncing"
+		color="Red"
+		mode="Normal"
+	/>
+</LEDSpicer>

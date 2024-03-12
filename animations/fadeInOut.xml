@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LEDSpicer
+	version="1.0"
+	type="Animation"
+>
+	<actor
+		type="Pulse"
+		group="All"
+		colors="White"
+		speed="Normal"
+		filter="Combine"
+		direction="ForwardBouncing"
+	/>
+</LEDSpicer>

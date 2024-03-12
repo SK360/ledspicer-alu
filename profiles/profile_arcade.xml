@@ -4,10 +4,9 @@
 	type="Profile"
 	backgroundColor="Black"
 >
-    <alwaysOnElements>
-        <element name="P1_START" color="Red" />
-        <element name="REWIND" color="Red" />
-        <element name="MENU" color="White" />
-    </alwaysOnElements>
+
+    <startTransitions>
+        <animation name="fadeInOut"/>
+    </startTransitions>
 
 </LEDSpicer>
