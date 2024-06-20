@@ -26,7 +26,7 @@
         />
 		<map
             type="Element"
-            target="P1_TRACKBALL1"
+            target="P2_TRACKBALL1"
             trigger="000"
             color="Blue"
             filter="Combine"
