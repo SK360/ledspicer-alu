@@ -8,7 +8,7 @@
 		<element name="P1_START" color="White" />
 		<element name="P2_START" color="White" />
 		<element name="MENU" color="Green" />
-		<element name="P1_TRACKBALL" color="Gold" />
+		<element name="P1_TRACKBALL1" color="Gold" />
 	</alwaysOnElements>
 </LEDSpicer>
 
